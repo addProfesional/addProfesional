@@ -14,13 +14,17 @@ Throughout my professional journey, I have worked across both frontend and backe
 
 Currently, my professional growth is focused on:
 
-* Backend Engineering
-* Software Architecture
-* System Design
-* Application Security
-* Cloud Computing
-* Artificial Intelligence Integration
-* Intelligent and Secure Systems
+
+| Interests                               |
+| ----------------------------------------|
+| ⚙️ Backend Engineering                 |
+| 📐 Software Architecture               | 
+| ✍️ System Design                       | 
+| 🔐 Application Security                |            
+| ☁️ Cloud Computing                     |             
+| 🤖 Artificial Intelligence Integration |                 
+| 🧠 Intelligent and Secure Systems      | 
+
 
 While I continue to work with frontend technologies such as Angular, Next.js, Vue.js, JavaScript, and TypeScript, my long-term goal is to evolve toward designing scalable, resilient, secure, and intelligent software systems.
 
@@ -30,26 +34,40 @@ While I continue to work with frontend technologies such as Angular, Next.js, Vu
 
 ### Frontend
 
-* Angular
-* Next.js
-* Vue.js
-* JavaScript
-* TypeScript
-* HTML5
-* CSS3
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Next](https://img.shields.io/badge/-NextJS-000?&logo=Next.js)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+
 
 ### Backend
 
-* Node.js
-* Java
-* Spring Boot
-* REST APIs
+![NodeJS](https://img.shields.io/badge/-Node-000?&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+![Java](https://img.shields.io/badge/-Java-000?&logo=OpenJDK)
+![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring-Boot)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
+![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![Fastify](https://img.shields.io/badge/-Fastify-000?&logo=Fastify)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
+![Go](https://img.shields.io/badge/-Golang-000?&logo=Go)
 
 ### Databases
 
-* PostgreSQL
-* MongoDB
-* SQL
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
 ### DevOps & Infrastructure
 
