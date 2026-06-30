@@ -71,18 +71,63 @@ While I continue to work with frontend technologies such as Angular, Next.js, Vu
 
 ### DevOps & Infrastructure
 
-* Docker
-* Linux
-* Git
-* CI/CD Fundamentals
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000?&logo=Kali-Linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
+![Red Hat](https://img.shields.io/badge/-Red%20Hat-000?&logo=Red-Hat)
+![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=Fedora)
+![Debian](https://img.shields.io/badge/-Debian-000?&logo=Debian)
+![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-000?&logo=Linux)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=Gitlab)
+![VMWare](https://img.shields.io/badge/-VMWare-000?&logo=VMWare)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-000?&logo=VirtualBox)
+![Apache](https://img.shields.io/badge/-Apache%20Tomcat-000?&logo=Apache-Tomcat)
+![IIS](https://img.shields.io/badge/-IIS-000?&logo=IIS)
+
 
 ### Architecture & Security
 
-* Software Architecture
-* System Design
-* Secure Software Development
-* Application Security
-* OWASP Principles
+
+<table>
+    <tbody>
+        <tr>
+            <td>📐 Software Architecture</td>
+            <td><img alt="UML" src="https://img.shields.io/badge/-UML-000?&logo=UML"></td>
+        </tr>
+        <tr>
+            <td>✍️ System Design</td>
+            <td><img alt="draw.io" src="https://img.shields.io/badge/-draw.io-000?&logo=diagrams.net"></td>
+        </tr>
+        <tr>
+            <td>🔐 Secure Software Development</td>
+            <td>
+                <img alt="OWASP" src="https://img.shields.io/badge/-OWASP-000?&logo=OWASP">
+            </td>
+        </tr>
+        <tr>
+            <td>☁️ Cloud Computing</td>
+            <td>
+                <img alt="AWS" src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS">
+                <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-000?&logo=Google-Cloud">
+            </td>
+        </tr>
+        <tr>
+            <td>🤖 Artificial Intelligence Integration</td>
+            <td>
+                <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-000?&logo=OpenAI"/>
+                <img alt="Claude" src="https://img.shields.io/badge/-Claude-000?&logo=Claude"/>
+                <img alt="Claude Code" src="https://img.shields.io/badge/-Claude%20Code-000?&logo=Claude-Code"/>
+                <img alt="Open Code" src="https://img.shields.io/badge/-Open%20Code-000?&logo=OpenCode"/>
+                <img alt="GitHub Copilot" src="https://img.shields.io/badge/-GitHub%20Copilot-000?&logo=GitHub-Copilot"/>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+
 
 ### Artificial Intelligence
 
